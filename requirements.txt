@@ -1,0 +1,8 @@
+ultralytics
+easyocr
+filterpy
+scikit-image
+lapx
+pymongo
+paddlepaddle
+paddleocr
